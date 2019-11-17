@@ -1,5 +1,3 @@
-# fend-project-memory-game-huda
-it is for Udacity nanodegre
 
 # Memory Game Project
 Memory has long been a favorite game for all generations. It is easy to play, in fact it is so simple that really young children can play with ease.
